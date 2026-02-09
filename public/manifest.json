@@ -1,0 +1,8 @@
+{
+    "short_name": "Budgeter",
+    "name": "Pro Budgeter App",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+  }
